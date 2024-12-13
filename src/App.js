@@ -10,4 +10,3 @@ function App() {
 }
 
 export default App;
-// "#3bc05e"
